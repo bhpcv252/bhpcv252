@@ -1,11 +1,12 @@
 ### 👋 Hi there, glad you're here
 
-#### 🔭 I'm available to <span style="color:green;">hire or collaborate</span>!
+#### 🔭 I'm available to hire or collaborate!
 
 
-### What can I do?
 
-Mostly anything on frontend development
+### 🤔 What can I do?
+
+😎 Mostly anything on frontend development
 
 - HTML5, CSS
 - JavaScript, TypeScript, JQuery
@@ -16,6 +17,24 @@ Mostly anything on frontend development
 - CMS, Strapi, StoryBlok
 - Restful, GraphQL
 - GSAP, WebGL, Three.js, GLSL, P5.js, Pixi.js
+
+🥸 I also know, but don't trust me on these
+
+- Node.js, PHP, Python, C/C++, Java, Dart
+- SQL, MySQL
+- Webpack, Parcel
+- Flutter, React Native
+- Wordpress
+- Figma, Lightroom, Photoshop, Adobe XD
+
+
+
+### 🌱 Checkout some of my work
+
+- (Equinox Villa)[https://equinoxvilla.com/]
+- (TLNTHUB)[https://www.tlnthub.com/]
+- (Bluestreak Math)[https://bluestreakmath.com/]
+- (DM slider - Her App)[https://weareher.com/dm-slider/]
 
 
 
