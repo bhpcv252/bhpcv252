@@ -3,31 +3,13 @@
 #### 🔭 I'm available to hire or collaborate!
 
 
+### 😎 What can I do?
 
-### 🤔 What can I do?
+I'm all about making the web look awesome and function smoothly! From crafting beautiful HTML5 and CSS designs to bringing them to life with JavaScript and TypeScript magic, I've got you covered. 
 
-😎 Mostly anything on frontend development
+Whether it's adding that extra flair with SCSS and SASS or diving deep into frameworks like React and Vue, I'm here to make your projects shine. I've even dabbled in cool animation stuff with GSAP and Three.js!
 
-- HTML5, CSS
-- JavaScript, TypeScript, JQuery
-- SCSS, SASS, Tailwind, Bootstrap
-- React, Gatsby, Next.js
-- Vue, Nuxt.js
-- Redux, Vuex
-- CMS, Strapi, StoryBlok
-- Restful, GraphQL
-- GSAP, WebGL, Three.js, GLSL, P5.js, Pixi.js
-
-🥸 I also know, but don't trust me on these
-
-- Node.js, PHP, Python, C/C++, Java, Dart
-- SQL, MySQL
-- Webpack, Parcel
-- Flutter, React Native
-- Wordpress
-- Figma, Lightroom, Photoshop, Adobe XD
-
-
+🥸 On the side, I've tinkered with a bunch of other tech too, like Node.js and SQL, and I've played around with design tools like Figma and Adobe XD.
 
 ### 🌱 Checkout some of my work
 
