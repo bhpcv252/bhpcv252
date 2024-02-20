@@ -1,6 +1,6 @@
 ### 👋 Hi there, glad you're here
 
-#### 🔭 I'm available to hire or collaborate!
+#### 🔭 I'm available to hire or collaborate! 🔭
 
 
 ### 😎 What can I do
