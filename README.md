@@ -3,6 +3,20 @@
 #### 🔭 I'm available to <span style="color:green;">hire or collaborate</span>!
 
 
+### What can I do?
+
+Mostly anything on frontend development
+
+- HTML5, CSS
+- JavaScript, TypeScript, JQuery
+- SCSS, SASS, Tailwind, Bootstrap
+- React, Gatsby, Next.js
+- Vue, Nuxt.js
+- Redux, Vuex
+- CMS, Strapi, StoryBlok
+- Restful, GraphQL
+- GSAP, WebGL, Three.js, GLSL, P5.js, Pixi.js
+
 
 
 <!--
