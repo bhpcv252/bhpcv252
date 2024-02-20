@@ -4,9 +4,9 @@
 
 ### 😎 What can I do
 
-I'm all about making the web look awesome and function smoothly! From crafting beautiful HTML5 and CSS designs to bringing them to life with JavaScript and TypeScript magic, I've got you covered. 
+I'm all about making the web look awesome and function smoothly! From crafting beautiful HTML5 and CSS designs to bringing them to life with <b>JavaScript</b> and <b>TypeScript</b> magic, I've got you covered. 
 
-Whether it's adding that extra flair with SCSS and SASS or diving deep into frameworks like React and Vue, I'm here to make your projects shine. I've even dabbled in cool animation stuff with GSAP and Three.js!
+Whether it's adding that extra flair with SCSS and SASS or diving deep into frameworks like <b>React</b> and <b>Vue</b>, I'm here to make your projects shine. I've even dabbled in cool animation stuff with GSAP and Three.js!
 
 🥸 On the side, I've tinkered with a bunch of other tech too, like Node.js and SQL, and I've played around with design tools like Figma and Adobe XD.
 
@@ -15,7 +15,7 @@ Whether it's adding that extra flair with SCSS and SASS or diving deep into fram
 - [Equinox Villa](https://equinoxvilla.com/)
 - [TLNTHUB](https://www.tlnthub.com/)
 - [Bluestreak Math](https://bluestreakmath.com/)
-- [DM slider - Her App](https://weareher.com/dm-slider/)
+- [DM Slider - Her App](https://weareher.com/dm-slider/)
 
 ### 🧪 Some experiments to show off my skills
 
@@ -34,8 +34,8 @@ Whether it's adding that extra flair with SCSS and SASS or diving deep into fram
 
 ### 🏗️ What am I doing
 
-I'm currently working on [My portfolio](https://github.com/bhpcv252/portfolio)
+I'm currently working on [my portfolio](https://github.com/bhpcv252/portfolio)
 
 ### 📫 How to reach me
 
-Well you don't
+Just [email me](mailto:sayhellotosonu@gmail.com)
