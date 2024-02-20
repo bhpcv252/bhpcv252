@@ -2,8 +2,6 @@
 
 #### 🔭 I'm available to hire or collaborate! 🔭
 
-I'm currently working on [My portfolio](https://github.com/bhpcv252/portfolio)
-
 ### 😎 What can I do
 
 I'm all about making the web look awesome and function smoothly! From crafting beautiful HTML5 and CSS designs to bringing them to life with JavaScript and TypeScript magic, I've got you covered. 
@@ -33,6 +31,10 @@ Whether it's adding that extra flair with SCSS and SASS or diving deep into fram
 - [Codepen](https://codepen.io/bhpcv252/)
 - [Shadertoy](https://www.shadertoy.com/user/bhpcv252/)
 - [P5.js Sketches](https://editor.p5js.org/bhpcv252/sketches)
+
+### What am I doing
+
+I'm currently working on [My portfolio](https://github.com/bhpcv252/portfolio)
 
 ### 📫 How to reach me
 
