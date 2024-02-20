@@ -1,7 +1,9 @@
-### Hi there 👋
-#### Glad you're here
+### 👋 Hi there, glad you're here
 
-🔭 I'm available to hire or collaborate!
+#### 🔭 I'm available to <span style="color:green;">hire or collaborate</span>!
+
+
+
 
 <!--
 **bhpcv252/bhpcv252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
