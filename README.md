@@ -2,6 +2,7 @@
 
 #### 🔭 I'm available to hire or collaborate! 🔭
 
+I'm currently working on [My portfolio](https://github.com/bhpcv252/portfolio)
 
 ### 😎 What can I do
 
