@@ -32,7 +32,7 @@ Whether it's adding that extra flair with SCSS and SASS or diving deep into fram
 - [Shadertoy](https://www.shadertoy.com/user/bhpcv252/)
 - [P5.js Sketches](https://editor.p5js.org/bhpcv252/sketches)
 
-### What am I doing
+### 🏗️ What am I doing
 
 I'm currently working on [My portfolio](https://github.com/bhpcv252/portfolio)
 
