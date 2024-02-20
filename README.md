@@ -3,7 +3,7 @@
 #### 🔭 I'm available to hire or collaborate!
 
 
-### 😎 What can I do?
+### 😎 What can I do
 
 I'm all about making the web look awesome and function smoothly! From crafting beautiful HTML5 and CSS designs to bringing them to life with JavaScript and TypeScript magic, I've got you covered. 
 
@@ -13,24 +13,25 @@ Whether it's adding that extra flair with SCSS and SASS or diving deep into fram
 
 ### 🌱 Checkout some of my work
 
-- (Equinox Villa)[https://equinoxvilla.com/]
-- (TLNTHUB)[https://www.tlnthub.com/]
-- (Bluestreak Math)[https://bluestreakmath.com/]
-- (DM slider - Her App)[https://weareher.com/dm-slider/]
+- [Equinox Villa](https://equinoxvilla.com/)
+- [TLNTHUB](https://www.tlnthub.com/)
+- [Bluestreak Math](https://bluestreakmath.com/)
+- [DM slider - Her App](https://weareher.com/dm-slider/)
 
+### 🧪 Some experiments to show off my skills
 
+- [Interactive WebGL Icosahedron Experiment](https://github.com/bhpcv252/webgl-icosahedron-1-exp/)
+- [WebGL Icosahedron Experiment With Perlin noise](https://github.com/bhpcv252/webgl-icosahedron-2-exp/)
+- [WebGL Image Particles Carousel](https://github.com/bhpcv252/webgl-img-particle-carousel-exp/)
+- [WebGL Image Vertical Carousel](https://github.com/bhpcv252/webgl-img-carousel-exp/)
+- [GLSL Shader - Cloudy Sky With Stars](https://www.shadertoy.com/view/fsSfD3)
+- [Custom Smooth Scroll](https://github.com/bhpcv252/smooth-scrolling/)
 
-<!--
-**bhpcv252/bhpcv252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📎 More on
 
-Here are some ideas to get you started:
+- [Codepen](https://codepen.io/bhpcv252/)
+- [Shadertoy](https://www.shadertoy.com/user/bhpcv252/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me
+
+Well you don't
