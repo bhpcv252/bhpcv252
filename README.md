@@ -34,7 +34,7 @@ Whether it's adding that extra flair with SCSS and SASS or diving deep into fram
 
 ### 🏗️ What am I doing
 
-I'm currently working on [my portfolio](https://github.com/bhpcv252/portfolio)
+I'm currently working on [my Portfolio](https://github.com/bhpcv252/portfolio) and [Star Locater app](https://github.com/bhpcv252/star-locater)
 
 ### 📫 How to reach me
 
