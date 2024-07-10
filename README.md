@@ -1,3 +1,5 @@
+### 😋 I enjoy working with JavaScript and GO
+-----
 ### 👋 Hi there, glad you're here
 
 #### 🔭 I'm available to hire or collaborate! 🔭
@@ -37,7 +39,7 @@ exploring their potential to elevate the user experience in future projects.
 
 ### 🏗️ What am I doing
 
-I'm currently working on [My Portfolio](https://github.com/bhpcv252/portfolio) and [Star Locater app](https://github.com/bhpcv252/star-locater)
+I'm currently working on [My Portfolio](https://github.com/bhpcv252/portfolio) and a Web App (Currently Private) written in JavaScript and Go
 
 ### 📫 How to reach me
 
