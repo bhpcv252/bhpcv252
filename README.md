@@ -1,4 +1,4 @@
-### 👋 Hi there, glad you're here
+### 👋 Hi there, glad you're here ![Views](https://komarev.com/ghpvc/?username=bhpcv252)
 
 ### 📂 Portfolio & Work
 - 🌟 [View my profile](https://www.fiverr.com/digiblankcanvas) – See reviews, projects, and client feedback  
