@@ -1,4 +1,3 @@
-![views](https://komarev.com/ghpvc/?username=bhpcv252&label=views&&abbreviated=true)
 ### 👋 Hi there, glad you're here
 
 ### 📂 Portfolio & Work
